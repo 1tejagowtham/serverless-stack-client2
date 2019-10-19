@@ -1,4 +1,6 @@
 export default {
+  STRIPE_KEY: "pk_test_AEuuTianjkUZUREGP4WNaprd00pEAFAU9f",
+  MAX_ATTACHMENT_SIZE: 5000000,
   s3: {
     REGION: "us-east-2",
     BUCKET: "teja-notes"
